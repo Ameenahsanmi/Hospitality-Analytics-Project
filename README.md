@@ -3,7 +3,7 @@
 ## Overview
 This project showcases a **Hospitality Analytics** solution developed using **Power BI** for AtliQ Grands, a leading luxury hotel chain in India. The aim was to analyze and improve revenue performance, room optimization, and guest satisfaction.
 
-#### Power BI Live Dashboard: [View Here](https://tinyurl.com/atliq-hospitality)
+#### Power BI Live Dashboard: [Link Here](https://tinyurl.com/atliq-hospitality)
 
 <img alt="Home page" width="800" src="https://github.com/Ameenahsanmi/Hospitality-Analytics-Project/blob/27558514712563cc52c930d2a681c28a3a519857/Hospitaliy%20dashboard%20homepage.png">
 
